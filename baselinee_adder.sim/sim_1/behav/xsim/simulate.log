@@ -1,0 +1,3 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 820 ns : File "/home/shivamtyagi/baselinee_adder/baselinee_adder.srcs/sim_1/imports/new/cla_TB.sv" Line 102
